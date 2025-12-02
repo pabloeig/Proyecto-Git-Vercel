@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-segundapull',
   imports: [],
   templateUrl: './segundapull.html',
-  styleUrl: './segundapull.css',
+  styleUrl: './segundapull.css'
 })
 export class Segundapull {
 
